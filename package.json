@@ -1,0 +1,23 @@
+{
+  "name": "cypress2024-02-07",
+  "version": "1.0.0",
+  "description": "readme file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/az002004/cypress-jenkins2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/az002004/cypress-jenkins2/issues"
+  },
+  "homepage": "https://github.com/az002004/cypress-jenkins2#readme",
+  "dependencies": {
+    "cypress": "^13.6.4"
+  }
+}
